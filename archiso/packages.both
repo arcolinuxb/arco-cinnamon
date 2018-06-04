@@ -534,6 +534,7 @@ cinnamon
 nemo-fileroller
 cinnamon-translations
 mintlocale
+gnome-terminal
 
 #extra
 thunar
