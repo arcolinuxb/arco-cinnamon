@@ -344,7 +344,7 @@ lsb-release
 mlocate
 nomacs
 p7zip
-#plank
+plank
 playerctl
 polkit
 polkit-gnome
@@ -387,8 +387,8 @@ zsh-completions
 zsh-syntax-highlighting
 
 #xfce4
-gtk-xfce-engine
-xfce4
+#gtk-xfce-engine
+#xfce4
 #mousepad
 #xfce4-goodies
 
@@ -473,7 +473,7 @@ yad
 yaourt
 
 #xfce4
-xfpanel-switch
+#xfpanel-switch
 
 #############################
 #arcolinux_repo for arcolinux
@@ -523,9 +523,17 @@ calamares
 boost-libs
 arcolinuxb-calamares-cinnamon-git
 
+#xfce minimal desktop for iso
+xfce4-panel
+xfdesktop
+xfwm4
+
+
 #Desktop specific
 cinnamon
-thunar
 nemo-fileroller
 cinnamon-translations
 mintlocale
+
+#extra
+thunar
