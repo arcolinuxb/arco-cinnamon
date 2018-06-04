@@ -15,7 +15,8 @@
 #Setting variables
 #Let us change the name"
 #First letter of desktop small
-desktop="cinnamon"
+#cinnamon is too long - max 32 and then it is 33
+desktop="cinamon"
 
 #build.sh
 oldname1="iso_name=arcolinux"
