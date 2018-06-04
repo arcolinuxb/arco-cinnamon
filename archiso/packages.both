@@ -524,10 +524,10 @@ boost-libs
 arcolinuxb-calamares-cinnamon-git
 
 #xfce minimal desktop for iso
-xfce4-panel
+xfce4-session
 xfdesktop
 xfwm4
-
+xfce4-panel
 
 #Desktop specific
 cinnamon
