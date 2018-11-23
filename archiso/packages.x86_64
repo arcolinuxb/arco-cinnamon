@@ -218,27 +218,27 @@ poppler-qt5
 
 #applications
 atom
-catfish
+#catfish
 chromium
 #compton
 #darktable
 #deadbeef
-dmenu
-evolution
+#dmenu
+#evolution
 feh
 firefox
 #flashplugin
 galculator
 geany
 gimp
-gmrun
+#gmrun
 #gsimplecal
-guvcview
+#guvcview
 imagemagick
 inkscape
 #libreoffice-fresh
 meld
-nitrogen
+#nitrogen
 numlockx
 pragha
 scrot
@@ -254,7 +254,7 @@ jq
 lm_sensors
 
 #cursors
-xcursor-simpleandsoft
+#xcursor-simpleandsoft
 
 #fonts
 adobe-source-sans-pro-fonts
@@ -499,7 +499,7 @@ arcolinux-lightdm-gtk-greeter-settings
 #arcolinux-logo-git
 arcolinux-neofetch-git
 arcolinux-mirrorlist-git
-arcolinux-nitrogen-git
+#arcolinux-nitrogen-git
 #arcolinux-oblogout
 #arcolinux-oblogout-awesome
 #arcolinux-oblogout-bspwm
@@ -527,17 +527,17 @@ arcolinux-xfce-thunar-git
 
 #xfce4 also for ArcoLinuxB iso builds
 #xfce4 group content
-exo
+#exo
 #garcon
 #gtk-xfce-engine
-#thunar
+thunar
 #thunar-volman
 #tumbler
 #xfce4-appfinder
 xfce4-panel
 #xfce4-power-manager
 xfce4-session
-xfce4-settings
+#xfce4-settings
 #xfce4-terminal
 #xfconf
 xfdesktop
@@ -612,6 +612,3 @@ cinnamon-translations
 mintlocale
 iso-flag-png
 gnome-terminal
-
-#Personal
-thunar
