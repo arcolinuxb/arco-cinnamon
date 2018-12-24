@@ -294,7 +294,7 @@ lightdm
 #gtk2-perl
 #obconf
 #openbox
-#gtk-engine-murrine
+gtk-engine-murrine
 
 #themes
 adapta-gtk-theme
@@ -617,3 +617,4 @@ mintlocale
 iso-flag-png
 gnome-terminal
 gnome-system-monitor
+qt4
