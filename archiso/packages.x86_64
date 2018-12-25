@@ -349,6 +349,7 @@ polkit
 polkit-gnome
 python2-dbus
 python2-xdg
+qt4
 qt5ct
 qt5-styleplugins
 #qt5-tools
@@ -617,4 +618,3 @@ mintlocale
 iso-flag-png
 gnome-terminal
 gnome-system-monitor
-qt4
