@@ -705,7 +705,7 @@ xfce4-panel
 #xfce4-power-manager
 xfce4-session
 #xfce4-settings
-#xfce4-terminal
+xfce4-terminal
 #xfconf
 xfdesktop
 xfwm4
