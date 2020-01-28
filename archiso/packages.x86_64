@@ -163,7 +163,6 @@ libdvdcss
 pulseaudio
 pulseaudio-alsa
 pavucontrol
-volumeicon
 
 ###bluetooth
 blueberry
@@ -672,6 +671,7 @@ lightdm
 
 #mugshot
 #menulibre
+#volumeicon
 
 ###########################################################################
 #                         ARCOLINUX ISO SPECIFIC
