@@ -209,13 +209,9 @@ echo
 	oldname4='ArcoLinux'
 	newname4='ArcoLinuxB-'$desktop
 
-	#lightdm.conf user-session
-	oldname5='user-session=xfce'
-	newname5='user-session='$lightdmDesktop
-
-	#lightdm.conf autologin-session
-	oldname6='#autologin-session='
-	newname6='autologin-session='$lightdmDesktop
+	#sddm.conf user-session
+	oldname5='Session=xfce'
+	newname5='Session='$dmDesktop
 
 	echo "Changing all references"
 	echo
