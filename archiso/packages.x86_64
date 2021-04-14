@@ -596,7 +596,7 @@ arcolinux-config-all-desktops-git
 #arcolinux-config-awesome-git
 #arcolinux-config-bspwm-git
 #arcolinux-config-budgie-git
-arcolinux-config-cinnamon-git
+#arcolinux-config-cinnamon-git
 #arcolinux-config-cwm-git
 #arcolinux-config-deepin-git
 #arcolinux-config-dwm-git
