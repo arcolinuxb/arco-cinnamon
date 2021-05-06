@@ -124,8 +124,6 @@ logrotate
 ntp
 wget
 
-
-
 ###xorg
 xorg-server
 xorg-apps
