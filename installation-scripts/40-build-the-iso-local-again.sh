@@ -29,7 +29,7 @@ echo
 	desktop="cinnamon"
 	dmDesktop="cinnamon"
 
-	arcolinuxVersion='v23.05.01'
+	arcolinuxVersion='v23.05.02'
 
 	isoLabel='arcolinuxb-'$desktop'-'$arcolinuxVersion'-x86_64.iso'
 
